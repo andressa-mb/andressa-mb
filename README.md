@@ -7,7 +7,7 @@ Estudante de análise e desenvolvimento de sistemas e aprendiz dos códigos para
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressa-mb&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projeto
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andressa-mb&repo=desafio-ccxp&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andressa-mb&repo=desafio-tarefas&theme=dark)
 
 ### Linguagens utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-mb&layout=compact)
