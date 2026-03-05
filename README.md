@@ -24,8 +24,8 @@ ________________________________________________________________________________
 ### Featured Projects
 
 ##### [Blog](https://github.com/andressa-mb/blog-laravel) - _Web system developed with Laravel and introducing Vue_
-##### [Laravel Electronics Store](github.com/andressa-mb/laravel-loja-eletronicos) - _Web system developed with Laravel_
-##### [E-commerce API](github.com/andressa-mb/ecommerce-api) - _Node.js REST API using layered architecture_
+##### [Laravel Electronics Store](https://github.com/andressa-mb/laravel-loja-eletronicos) - _Web system developed with Laravel_
+##### [E-commerce API](https://github.com/andressa-mb/ecommerce-api) - _Node.js REST API using layered architecture_
 _____________________________________________________________________________________________________________________________________________________________________
 
 ### Contato
