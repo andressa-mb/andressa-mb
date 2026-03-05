@@ -1,16 +1,32 @@
-### Oi, meu nome é Andressa 👋
+## Andressa Braga
 
-###### Sobre a Andressa:
-Estudante de análise e desenvolvimento de sistemas e aprendiz dos códigos para conhecimento próprio e crescimento na carreira profissional. 
+Backend Developer focused on web application development using PHP (Laravel) and Node.js.
 
-### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andressa-mb&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Experience building REST APIs, working with relational and non-relational databases, and integrating backend services with frontend applications.
+_____________________________________________________________________________________________________________________________________________________________________
+### Main technologies:
+- PHP / Laravel
+- Node.js
+- REST APIs
+- PostgreSQL / MySQL / MongoDB
+- Docker
+- Git
+- Vue.js
 
-### Projeto
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andressa-mb&repo=desafio-tarefas&theme=dark)
+### Currently interested in improving knowledge in:
 
-### Linguagens utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressa-mb&layout=compact)
+- backend architecture
+- software design patterns
+- automated testing
+- scalable backend systems
+___________________________________________________________________________________________________________________________________________________________________
+
+### Featured Projects
+
+##### [Blog](https://github.com/andressa-mb/blog-laravel) - _Web system developed with Laravel and introducing Vue_
+##### [Laravel Electronics Store](github.com/andressa-mb/laravel-loja-eletronicos) - _Web system developed with Laravel_
+##### [E-commerce API](github.com/andressa-mb/ecommerce-api) - _Node.js REST API using layered architecture_
+_____________________________________________________________________________________________________________________________________________________________________
 
 ### Contato
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style-for-the-badge&logo-linkedin&logoColor-white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/andressa-mbraga/)
