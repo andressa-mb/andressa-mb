@@ -26,6 +26,7 @@ ________________________________________________________________________________
 
 ##### [Blog](https://github.com/andressa-mb/blog-laravel) - _Web system developed with Laravel and introducing Vue_
 ##### [Laravel Electronics Store](https://github.com/andressa-mb/laravel-loja-eletronicos) - _Web system developed with Laravel_
+##### [Hotel](https://github.com/andressa-mb/Hotel-Spring) - _Hotel management and reservation system developed with Java and Spring Boot_
 ##### [E-commerce API](https://github.com/andressa-mb/ecommerce-api) - _Node.js REST API using layered architecture_
 _____________________________________________________________________________________________________________________________________________________________________
 
