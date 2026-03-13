@@ -7,6 +7,7 @@ ________________________________________________________________________________
 ### Main technologies:
 - PHP / Laravel
 - Node.js
+- Java / Spring Boot
 - REST APIs
 - PostgreSQL / MySQL / MongoDB
 - Docker
